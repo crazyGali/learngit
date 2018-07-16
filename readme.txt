@@ -1,2 +1,2 @@
-git gali is a distributed version control system.
+git galia gali s a distributed version control system.
 git is free sofeware.
